@@ -8,7 +8,7 @@ const projectsData = [
   {
     id: 1,
     title: "Food Delivery Web App UI",
-    description: "Project 1 description",
+    description: "User Interface design achieved using JavaScript, React, Firebase, Redux, and Photoshop",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
     previewUrl: "https://planewingzonline.vercel.app/",
@@ -16,7 +16,7 @@ const projectsData = [
   {
     id: 2,
     title: "Movie Catalog Web App UI",
-    description: "Project 2 description",
+    description: "User Interface design achieved using TypeScript, Next.js, and Photoshop",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
     previewUrl: "https://just-watch-mocha.vercel.app/",
@@ -24,7 +24,7 @@ const projectsData = [
   {
     id: 3,
     title: "Portfolio Web App UI",
-    description: "Project 3 description",
+    description: "This was my first iLunaweb deployment using React with 3D elements",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     previewUrl: "https://i-lunaweb.vercel.app/",
@@ -32,7 +32,7 @@ const projectsData = [
   {
     id: 4,
     title: "Sasol Motion Graphics",
-    description: "Project 4 description",
+    description: "Motion logo design achieved using Adobe Photoshop and After Effects",
     image: "/images/projects/4.png",
     tag: ["All", "Graphics"],
     previewUrl: "https://www.instagram.com/p/C8wQ7xhtLRZ/",
@@ -40,7 +40,7 @@ const projectsData = [
   {
     id: 5,
     title: "Ferrari Motion Graphics",
-    description: "Authentication and CRUD operations",
+    description: "Motion logo design achieved using Adobe Photoshop and After Effects",
     image: "/images/projects/5.png",
     tag: ["All", "Graphics"],
     previewUrl: "https://www.instagram.com/p/C8wQbPstJAQ/",
@@ -48,7 +48,7 @@ const projectsData = [
   {
     id: 6,
     title: "PlaneWingz Video Edit",
-    description: "Project 5 description",
+    description: "Film editing using Premiere Pro",
     image: "/images/projects/6.png",
     tag: ["All", "Graphics"],
     previewUrl: "https://www.instagram.com/reel/Cy5N-vzCrpi/",
