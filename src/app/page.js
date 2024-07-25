@@ -17,9 +17,9 @@ export default function Home() {
         <AboutSection />
         <ProjectsSection />
         <EmailSection />
-        <ParticlesComponent id="particles" />
       </div>
       <Footer />
+        <ParticlesComponent id="particles" />
     </main>
   );
 }
