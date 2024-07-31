@@ -16,7 +16,7 @@ const HeroSection = () => {
           className="col-span-8 place-self-center text-center sm:text-left justify-self-start"
         >
           <h1 className="text-white mb-2 text-2xl sm:text-3xl lg:text-6xl lg:leading-normal font-semibold">
-            <span className="text-reddy">
+            <span className="text-primary">
             Welcome, I&apos;m{" "}
             </span>
             <br></br>
@@ -42,9 +42,9 @@ const HeroSection = () => {
           <div>
             <Link
               href="/#contact"
-              className="px-1 inline-block py-1 w-full sm:w-fit rounded-full mr-4 bg-reddy hover:bg-slate-200 text-white"
+              className="px-1 inline-block py-1 w-full sm:w-fit rounded-full mr-4 bg-primary hover:bg-slate-200 text-white"
             >
-             <span className="block bg-[#000000] hover:bg-reddy rounded-full px-5 py-2">
+             <span className="block bg-[#000000] hover:bg-primary rounded-full px-5 py-2">
               Hire Me
               </span>
             </Link>

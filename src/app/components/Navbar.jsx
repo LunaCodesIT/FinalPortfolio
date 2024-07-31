@@ -28,7 +28,7 @@ const Navbar = () => {
       <div className="flex container lg:py-4 flex-wrap items-center justify-between mx-auto px-4 py-2">
         <Link
           href={"/"}
-          className="text-reddy bg-clip-text bg-gradient-to-r from-primary-600 to-secondary-500 font-semibold"
+          className="text-primary bg-clip-text bg-gradient-to-r from-primary-600 to-primary-500 font-semibold"
         >
           iLunaweb
         </Link>
