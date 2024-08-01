@@ -62,12 +62,11 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
         
           <p className="text-base lg:text-lg">
-          In 2020, many people had to start new things to cope with the Covid-19 lock-down restrictions.
-          That new thing for me was coding. <br /> <br />My stack started with <span className="text-orange">HTML</span>, <span className="text-blue">CSS</span>, and vanilla <span className="text-yellow">JavaScript</span> to create websites.
-          However, I disliked the use of stock images/videos and due to copyright restrictions, I had to create my own images/videos
-          using Adobe <span className="text-blue">Photoshop</span>, <span className="text-purple">After Effects</span>, <span className="text-amaranth">Premiere Pro</span>, <span className="text-orange">Illustrator</span>, <span className="text-rosepink">InDesign</span>, <span className="text-green">Figma</span> and more. A year later, vanilla JavaScript started
-          to bore me, therefore I learnt <span className="text-aqua">React</span> to solidify my Frontend skills and I&apos;ve been gladly using the framework/library for just over 3 years now.
-          Furthermore, <span className="text-aqua">React</span> also led me to <span className="text-reddy">Next.js</span> and the importance of <span className="text-blue">TypeScript</span> for production level Frontend development. 
+         With 5 years of experience as a self-taught frontend web developer and graphic designer, 
+         I have honed my skills in creating visually stunning and highly functional websites. 
+         My passion for design and coding drives me to continuously learn and push the boundaries of creativity and technology. 
+         Whether it's crafting sleek user interfaces or bringing ideas to life through innovative web solutions, 
+         I am dedicated to delivering exceptional results that exceed expectations.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
