@@ -65,7 +65,7 @@ const AboutSection = () => {
          With 5 years of experience as a self-taught frontend web developer and graphic designer, 
          I have honed my skills in creating visually stunning and highly functional websites. 
          My passion for design and coding drives me to continuously learn and push the boundaries of creativity and technology. 
-         Whether it's crafting sleek user interfaces or bringing ideas to life through innovative web solutions, 
+         Whether it is crafting sleek user interfaces or bringing ideas to life through innovative web solutions, 
          I am dedicated to delivering exceptional results that exceed expectations.
           </p>
           <div className="flex flex-row justify-start mt-8">
