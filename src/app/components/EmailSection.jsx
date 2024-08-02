@@ -57,10 +57,10 @@ const EmailSection = () => {
         </p>
         <div className="socials flex flex-row gap-2">
           <Link href="https://github.com/LunaCodesIT">
-            <Image src={GithubIcon} alt="Github Icon" />
+            <Image src={GithubIcon} alt="Github Icon" target="_blank"/>
           </Link>
           <Link href="https://www.linkedin.com/in/luzuko-naki-02a983250/">
-            <Image src={LinkedinIcon} alt="Linkedin Icon" />
+            <Image src={LinkedinIcon} alt="Linkedin Icon" target="_blank" />
           </Link>
         </div>
       </div>
