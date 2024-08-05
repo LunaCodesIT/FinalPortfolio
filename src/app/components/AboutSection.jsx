@@ -60,13 +60,15 @@ const AboutSection = () => {
       <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16">
         <Image src="/images/about-image.png" width={500} height={500} />
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
-        
           <p className="text-base lg:text-lg">
-         With 5 years of experience as a self-taught frontend web developer and graphic designer, 
-         I have honed my skills in creating visually stunning and highly functional progressive web apps. 
-         My passion for design and coding drives me to continuously learn and push the boundaries of creativity and technology. 
-         Whether it is crafting sleek user interfaces or bringing ideas to life through innovative web solutions, 
-         I am dedicated to delivering exceptional results that exceed expectations.
+            With years of experience as a self-taught frontend developer and
+            graphic designer, I have honed my skills in creating visually
+            stunning graphics and highly functional progressive web apps. My
+            passion for design and coding drives me to continuously learn and
+            push the boundaries of creativity and technology. Whether it is
+            crafting sleek user interfaces or bringing ideas to life through
+            innovative web solutions, I am dedicated to delivering exceptional
+            results that exceed expectations.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
