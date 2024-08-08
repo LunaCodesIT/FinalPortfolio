@@ -16,15 +16,13 @@ const HeroSection = () => {
           className="col-span-8 place-self-center text-center sm:text-left justify-self-start"
         >
           <h1 className="text-white mb-2 text-2xl sm:text-3xl lg:text-6xl lg:leading-normal font-semibold">
-            <span className="text-primary">
-            Welcome, I&apos;m{" "}
-            </span>
+            <span className="text-primary">Welcome, I&apos;m </span>
             <br></br>
             <TypeAnimation
               sequence={[
                 "Luzuko",
                 1000,
-                "a Web Developer",
+                "a Frontend Developer",
                 1000,
                 "a Graphic Designer",
                 1000,
@@ -37,18 +35,18 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Basically, I take your ideas from concept stages to finished digital products.
+            Basically, I take your ideas from concept stages to finished digital
+            products.
           </p>
           <div>
             <Link
               href="/#contact"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full mr-4 bg-primary hover:bg-slate-200 text-white"
             >
-             <span className="block bg-[#000000] hover:bg-primary rounded-full px-5 py-2">
-              Hire Me
+              <span className="block bg-[#000000] hover:bg-primary rounded-full px-5 py-2">
+                Hire Me
               </span>
             </Link>
-           
           </div>
         </motion.div>
         <motion.div
