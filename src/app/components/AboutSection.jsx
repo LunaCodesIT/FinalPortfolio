@@ -61,14 +61,12 @@ const AboutSection = () => {
         <Image src="/images/about-image.png" width={500} height={500} />
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <p className="text-base lg:text-lg">
-            With years of experience as a self-taught frontend developer and
-            graphic designer, I have honed my skills in creating visually
-            stunning graphics and highly functional progressive web apps. My
-            passion for design and coding drives me to continuously learn and
-            push the boundaries of creativity and technology. Whether it is
-            crafting sleek user interfaces or bringing ideas to life through
-            innovative web solutions, I am dedicated to delivering exceptional
-            results that exceed expectations.
+            As an IT Professional, I have honed my skills in developing highly
+            functional user interfaces for progressive web apps and designing
+            visually stunning still graphics, motion graphics, and videos for
+            social media posts. With a strong understanding of IT Systems
+            Development and ongoing coursework in Cybersecurity, I am also able
+            to take on Computer and Network Security duties.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
