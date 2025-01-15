@@ -5,7 +5,7 @@ import ProjectsSection from "./components/ProjectsSection";
 import EmailSection from "./components/EmailSection";
 import Footer from "./components/Footer";
 import AchievementsSection from "./components/AchievementsSection";
-import ParticlesComponent from "../app/components/particles"
+import ParticlesComponent from "../app/components/particles";
 
 export default function Home() {
   return (
@@ -19,7 +19,6 @@ export default function Home() {
         <EmailSection />
       </div>
       <Footer />
-      
     </main>
   );
 }
