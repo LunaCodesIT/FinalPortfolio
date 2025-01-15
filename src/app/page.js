@@ -19,7 +19,7 @@ export default function Home() {
         <EmailSection />
       </div>
       <Footer />
-      <ParticlesComponent id="particles" /> 
+      
     </main>
   );
 }
