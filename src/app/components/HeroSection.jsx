@@ -13,7 +13,7 @@ const HeroSection = () => {
           initial={{ opacity: 0, scale: 0.5 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.5 }}
-          className="col-span-8 place-self-center text-center sm:text-left sm:place-self-start flex flex-col sm:block items-center"
+          className="col-span-8 text-center sm:text-left flex flex-col items-center sm:items-start"
         >
           <h1 className="text-white mb-2 text-2xl sm:text-3xl lg:text-6xl lg:leading-normal font-semibold">
             <span className="text-primary">Welcome, I&apos;m </span>
@@ -35,7 +35,7 @@ const HeroSection = () => {
             />
           </h1>
 
-          <div className="mt-4 sm:mt-0">
+          <div className="mt-4">
             <Link
               href="/#contact"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-primary hover:bg-slate-200 text-white"
@@ -44,6 +44,23 @@ const HeroSection = () => {
                 Hire Me
               </span>
             </Link>
+          </div>
+        </motion.div>
+
+        <motion.div
+          initial={{ opacity: 0, scale: 0.5 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ duration: 0.5 }}
+          className="col-span-4 place-self-center mt-4 lg:mt-0"
+        >
+          <div className="rounded-full w-[250px] h-[250px] lg:w-[400px] lg:h-[300px] relative">
+            <Image
+              src="/images/hero-image.png"
+              alt="hero image"
+              className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              width={800}
+              height={800}
+            />
           </div>
         </motion.div>
       </div>
