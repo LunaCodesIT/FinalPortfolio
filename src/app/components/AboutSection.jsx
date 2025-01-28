@@ -65,12 +65,16 @@ const AboutSection = () => {
         <Image src="/images/about-image.png" width={500} height={500} />
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <p className="text-base lg:text-lg">
-            As an IT Professional, I have honed my skills in developing highly
-            functional user interfaces for progressive web apps and designing
-            visually stunning still graphics, motion graphics, and videos for
-            social media posts. With a strong understanding of IT Systems
-            Development and ongoing coursework in Cybersecurity, I am also able
-            to take on Computer and Network Security duties.
+            Skilled front-end developer with expertise in JavaScript,
+            TypeScript, React, and Next.js, supported by a National Certificate
+            in IT Systems Development. <br /> I have hands-on experience in
+            creating responsive web applications, complex user interfaces,
+            internet programming, and online business solutions. I recently
+            earned my CompTIA Network+ certification and am continuing to expand
+            my cybersecurity knowledge through Coursera, with a focus on
+            Security+ and other related courses. This dual expertise in
+            development and security positions me well to tackle future
+            challenges in the ever-evolving IT landscape.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
