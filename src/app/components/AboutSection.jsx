@@ -37,9 +37,13 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li className="text-blue">QCTO: IT Systems Development</li>
-        <li className="text-green">AWS Cloud Practitioner</li>
-        <li className="text-primary-600">ACP in Visual Design</li>
+        <li className="text-green">
+          QCTO National Certificate in IT Systems Development
+        </li>
+        <li className="text-reddy">Comptia Network+ Certification</li>
+        <li className="text-blue">
+          Adobe Professional Certification in Visual Design using Photoshop
+        </li>
       </ul>
     ),
   },
