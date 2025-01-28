@@ -67,14 +67,15 @@ const AboutSection = () => {
           <p className="text-base lg:text-lg">
             Skilled front-end developer with expertise in JavaScript,
             TypeScript, React, and Next.js, supported by a National Certificate
-            in IT Systems Development. <br /> I have hands-on experience in
-            creating responsive web applications, complex user interfaces,
-            internet programming, and online business solutions. I recently
-            earned my CompTIA Network+ certification and am continuing to expand
-            my cybersecurity knowledge through Coursera, with a focus on
-            Security+ and other related courses. This dual expertise in
-            development and security positions me well to tackle future
-            challenges in the ever-evolving IT landscape.
+            in IT Systems Development. <br />
+            <br />I have hands-on experience in creating responsive web
+            applications, complex user interfaces, internet programming, and
+            online business solutions. I recently earned my CompTIA Network+
+            certification and am continuing to expand my cybersecurity knowledge
+            through Coursera, with a focus on Security+ and other related
+            courses. This dual expertise in development and security positions
+            me well to tackle future challenges in the ever-evolving IT
+            landscape.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
